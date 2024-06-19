@@ -1,0 +1,12 @@
+{
+  "file": "./models/tracks.json",
+  "tracks": [
+    {
+      "title": "Demo",
+      "artist": "Demi",
+      "duration": 200,
+      "_id": "f309c010-469f-4e11-bf4b-84d85ce682fb",
+      "playlistid": "25492eed-1401-4f23-99b6-7ce40e604df4"
+    }
+  ]
+}
