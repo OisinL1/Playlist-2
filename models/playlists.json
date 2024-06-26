@@ -1,17 +1,4 @@
 {
   "file": "./models/playlists.json",
-  "playlists": [
-    {
-      "title": "Mozart Sonatas",
-      "_id": "682b16c1-3565-47c0-a3ad-f2ae8811f583"
-    },
-    {
-      "title": "Mozart Concertos",
-      "_id": "5add4f15-0431-4058-a5c6-df97738dc786"
-    },
-    {
-      "title": "Audrey",
-      "_id": "25492eed-1401-4f23-99b6-7ce40e604df4"
-    } 
-  ]
+  "playlists": []
 }
